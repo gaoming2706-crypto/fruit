@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Cut 水果自由拼",
+  "description": "以水果自由组合、现切与装盒为核心的高品质互动体验产品。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
